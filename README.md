@@ -21,4 +21,7 @@ My proficient programming languages, frameworks, and tools includes:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviana-yiya&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daviana-yiya&theme=dark)
+
+
 
