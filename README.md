@@ -19,4 +19,6 @@ My proficient programming languages, frameworks, and tools includes:
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daviana-yiya&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviana-yiya&layout=compact&theme=tokyonight)
+
 
