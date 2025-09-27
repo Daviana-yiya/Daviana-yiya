@@ -17,4 +17,6 @@ My proficient programming languages, frameworks, and tools includes:
 ![healthiness](https://img.shields.io/badge/tool-Pytorch-brightgreen?style=plastic&logo=huggingface&logoColor=%23FFD21E&logoSize=auto&label=tool&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
 
 ## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daviana-yiya&show_icons=true&theme=radical)
+
 
